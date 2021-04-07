@@ -9,7 +9,7 @@ However, you can still easily bypass torrent blocking without the ISP and DMCA k
 Here are the 4 best ways to bypass torrent blocking.
 
 # Use the HTTP proxy
-The third option to avoid blocking torrents is through the HTTP proxy.
+The first option to avoid blocking torrents is the HTTP proxy.
 
 Similar to a VPN, a proxy server can hide your IP address and connect you to a site that is being blocked. When you use a proxy, your traffic is sent through an intermediate server, which then forwards you to the blocked content. However, there are some issues with this method.
 
