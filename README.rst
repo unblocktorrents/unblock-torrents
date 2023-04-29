@@ -1,5 +1,5 @@
 ##################
-Unblocked Torrent Sites and Torrent Proxy List 2021
+Unblocked Torrent Sites and Torrent Proxy List 2023
 ##################
 
 Downloading torrents is one of the main activities of the internet. This allows files to be shared over the Internet using P2P protocols. Although torrents are considered legal, they are mainly used for sharing copyrighted content. As a result of the popularity of torrenting, hundreds of torrent websites have popped up over the course of a decade. As a result, copyright infringement has increased and torrents blocked.
@@ -19,7 +19,8 @@ Similar to a VPN, a proxy server can hide your IP address and connect you to a s
 
 There are several proxy websites that you can tunnel and bypass torrent blocking.
 
-- https://torrentbay.to
+- https://torrentbay.net
+- https://abcproxy.org
 
 
 
