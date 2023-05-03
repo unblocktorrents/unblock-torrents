@@ -20,8 +20,9 @@ Similar to a VPN, a proxy server can hide your IP address and connect you to a s
 There are several proxy websites that you can tunnel and bypass torrent blocking.
 
 - https://torrentbay.net
+- https://ninjaproxy1.com
 - https://abcproxy.org
-
+- https://piratic.org
 
 
 *********
