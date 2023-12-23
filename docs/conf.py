@@ -32,4 +32,4 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', 'docs/en/build/html')
+html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', 'docs/build/html')
