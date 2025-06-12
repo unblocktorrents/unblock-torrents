@@ -17,7 +17,6 @@ There are several proxy websites that you can tunnel and bypass torrent blocking
 
 - https://torrentbay.st
 - https://ninjaproxy1.com
-- https://abcproxy.org
 - https://piratic.org
 
 
